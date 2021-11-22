@@ -329,3 +329,4 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 /sabacha/Dispatcher/dispatcher.bot
+.vscode/
